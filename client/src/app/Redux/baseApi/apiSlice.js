@@ -7,7 +7,7 @@ export const apiSlice= createApi({
   reducerPath: 'api',
   
   baseQuery: fetchBaseQuery({
-    // baseUrl: "http://localhost:5500",
+    
     baseUrl: "https://duaserver.ishrakhasin.com",
    
  
