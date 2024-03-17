@@ -8,7 +8,7 @@ export const apiSlice= createApi({
   
   baseQuery: fetchBaseQuery({
     // baseUrl: "http://localhost:5500",
-    baseUrl: "http://duaserver.ishrakhasin.com",
+    baseUrl: "https://duaserver.ishrakhasin.com",
    
  
 
